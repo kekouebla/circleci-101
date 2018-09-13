@@ -1,1 +1,2 @@
 # circleci-101
+Credit: https://circleci.com/docs/2.0/getting-started/
